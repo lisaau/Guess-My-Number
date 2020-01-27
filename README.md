@@ -1,5 +1,17 @@
-# Techtonica-Assignments	
+# Guess My Number
 
-Deliverables for the Techtonica assignments from the [curriculum](https://github.com/Techtonica/curriculum).
+This is a number guessing game as outlined [here](https://github.com/Techtonica/curriculum/blob/master/projects/js-html-games.md). 
 
-Assignments that ask students to complete in REPL can be found [here](https://repl.it/@lisaau).
+Game includes the following features:
+
+- Displaying whether the answer is higher, lower, or correct
+- Tracking how many wrong guesses the user has made so far and display that count
+- Tracking what numbers the user has already guessed and display those 
+
+### Built with:
+
+HTML
+
+CSS
+
+JavaScript/jQuery
