@@ -8,6 +8,8 @@ Game includes the following features:
 - Tracking how many wrong guesses the user has made so far and display that count
 - Tracking what numbers the user has already guessed and display those 
 
+View the game at: https://lisaau.github.io/Guess-My-Number/
+
 ### Built with:
 
 HTML
