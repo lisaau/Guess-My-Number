@@ -1,6 +1,6 @@
 # Guess My Number
 
-This is a number guessing game as outlined [here](https://github.com/Techtonica/curriculum/blob/master/projects/js-html-games.md). 
+This is an interactive number guessing game as outlined [here](https://github.com/Techtonica/curriculum/blob/master/projects/js-html-games.md). 
 
 Game includes the following features:
 
@@ -10,10 +10,12 @@ Game includes the following features:
 
 View the game at: https://lisaau.github.io/Guess-My-Number/
 
+![guess-my-number-demo](/guess-my-number-demo.gif)
+
+
+
 ### Built with:
 
-HTML
-
-CSS
-
-JavaScript/jQuery
+- HTML
+- CSS
+- JavaScript/jQuery
